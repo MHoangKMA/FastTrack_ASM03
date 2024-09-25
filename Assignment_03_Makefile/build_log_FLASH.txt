@@ -1,0 +1,3 @@
+==> BUILD on FLASH Complete!
+Generated ELF file: ./output/S32K144_Demo.elf
+Generated MAP file: ./output/S32K144_Demo.map
