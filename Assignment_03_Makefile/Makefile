@@ -3,6 +3,21 @@
 PROJECT_NAME        := S32K144_Demo
 PROJECT_DIR         := .
 
+PROJECT_NAME        := S32K144_Demo
+PROJECT_DIR         := .
+
+
+
+PROJECT_NAME        := S32K144_Demo
+PROJECT_DIR         := .
+
+
+PROJECT_NAME        := S32K144_Demo
+PROJECT_DIR         := .
+PROJECT_NAME        := S32K144_Demo
+PROJECT_DIR         := .
+PROJECT_NAME        := S32K144_Demo
+PROJECT_DIR         := .
 # Define log files for FLASH and RAM modes
 LOG_FILE_FLASH := build_log_FLASH.txt
 LOG_FILE_RAM := build_log_RAM.txt
